@@ -18,7 +18,7 @@ I’m a backend-focused developer passionate about building **scalable, resilien
 - **C++**
 
 ### 🧰 Backend & Databases
-- **RestAPI / ASP.NET Core /React.js**
+- **RestAPI / ASP.NET Core **
 - **RESTful APIs & Microservices**
 - **PostgreSQL | MySQL**
 
