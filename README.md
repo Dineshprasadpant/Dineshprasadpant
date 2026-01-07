@@ -22,12 +22,18 @@ I’m a backend-focused developer passionate about building **scalable, resilien
 - **RESTful APIs & Microservices**
 - **PostgreSQL | MySQL**
 
+### 🎨 Frontend Development
+- **HTML**
+- **CSS**
+- **React.js**
+- **MVC**
+- **DOM Manipulation**
+- 
 ### ☁️ Dev & Deployment
 - **Docker & Containerization**
 - **CI/CD (GitHub Actions, GitLab CI)**
 - **Linux / Bash**
 - **Version Control (Git)**
-- **MVC**
 
 ---
 
@@ -44,8 +50,3 @@ Let’s connect — open to collaboration and opportunities!
 - Leetcode: https://www.leetcode.com/u/dinesh_panta/
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dineshprasadpant&show_icons=true&theme=radical" alt="Dinesh’s GitHub Stats" />
-</p>
