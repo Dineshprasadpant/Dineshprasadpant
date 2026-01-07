@@ -11,7 +11,7 @@ I’m a backend-focused developer passionate about building **scalable, resilien
 ## 🛠️ Skills & Technologies
 
 ### 💻 Languages
-- **JavaScript (Node.js)**
+- **JavaScript**
 - **Python**
 - **HTML**
 - **C#**
